@@ -1,6 +1,9 @@
-### Hi there 👋
+### 貴方好！私 JCxYIS！大拍手👏👏👏
+> 中國語本當上手！否！我深刻力不足！
+余 直前中央大學資工系二年生，安定遂行中。遊戲開發為興味。
+一人寂！相手希望！言身寸言身寸茄子🍆
 
-> 本頁面施工中QQQ
+
 
 <!--
 **JCxYIS/JCxYIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
