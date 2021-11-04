@@ -23,6 +23,4 @@ Most of time being a Game Developer, but sometimes fiddle around with other stuf
 
 
 
-> Code for Games, Code for Fun, Code for Life.
-
 一人寂！相手希望！言身寸言身寸茄子🍆
