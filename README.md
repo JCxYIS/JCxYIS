@@ -1,22 +1,28 @@
-### 貴方好！私 JCxYIS！大拍手👏👏👏
-> 中國語本當上手！否！我深刻力不足！
+# 貴方好！私 JCxYIS！大拍手👏👏👏
+> 中国語本當上手！否！我深刻力不足！
 
-余 直前中央大學資工系二年生，安定遂行中。遊戲開發為興味。  
+A student major in ~~History~~ CSIE.  
+Most of time being a Game Developer, but sometimes fiddle around with other stuffs.
+
+## Experiences
+- NCU Smart Campus Lecture - TA (2021~2022)
+- Tempest Digital - Intern (2021~)
+- IISR Lab - MIS (2020~)
+- NCU Game Creator - Leader of Programmers' Guild, PR (2020~2021)
+
+
+## Languages
+♥️♥️♥️♥️♥️ C# (Unity / ASP.Net Core)  
+♥️♥️♥️🖤🖤 python / Java / C++ / javascript  
+♥️🖤🖤🖤🖤 Any other language (I love coding so I reserve a heart here for those language I haven't explored 😂)  
+
+
+
+## Find me on...
+- [Itchio](https://jcxyis.itch.io/)
+
+
+
+> Code for Games, Code for Fun, Code for Life.
+
 一人寂！相手希望！言身寸言身寸茄子🍆
-
-
-
-<!--
-**JCxYIS/JCxYIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
