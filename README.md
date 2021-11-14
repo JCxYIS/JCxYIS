@@ -12,7 +12,7 @@ Most of time being a Game Developer, but sometime fiddles around with other stuf
 
 
 ## Languages
-♥️♥️♥️♥️♥️ C# (Most of the time using Unity Engine, also have some experience in ASP.net core)
+♥️♥️♥️♥️♥️ C# (Most of the time using Unity Engine, also have some experience in ASP.net core)  
 ♥️♥️♥️🖤🖤 python / Java / C++ / javascript  
 ♥️🖤🖤🖤🖤 All other language (I enjoy coding so I reserve a heart here for those language I haven't explored 😂)  
 
