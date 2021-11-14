@@ -2,7 +2,7 @@
 > 中国語本當上手！否！我深刻力不足！
 
 A student major in ~~History~~ CSIE.  
-Most of time being a Game Developer, but sometimes fiddle around with other stuffs.
+Most of time being a Game Developer, but sometime fiddles around with other stuffs.
 
 ## Experiences
 - NCU Smart Campus Lecture - TA (2021~2022)
@@ -12,9 +12,9 @@ Most of time being a Game Developer, but sometimes fiddle around with other stuf
 
 
 ## Languages
-♥️♥️♥️♥️♥️ C# (Unity / ASP.Net Core)  
+♥️♥️♥️♥️♥️ C# (Most of the time using Unity Engine, also have some experience in ASP.net core)
 ♥️♥️♥️🖤🖤 python / Java / C++ / javascript  
-♥️🖤🖤🖤🖤 Any other language (I love coding so I reserve a heart here for those language I haven't explored 😂)  
+♥️🖤🖤🖤🖤 All other language (I enjoy coding so I reserve a heart here for those language I haven't explored 😂)  
 
 
 
