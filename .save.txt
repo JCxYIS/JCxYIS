@@ -1,0 +1,1 @@
+{"heart_finders": ["", "", "", "", "", "", "", ""], "heart_finders_history": [], "id": 1, "revealed_poses": [87], "seed": 576223968}
