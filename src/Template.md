@@ -63,7 +63,7 @@ Heart Finders
 
 
 ![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=jcxyis.jcxyis&left_text=Visitors)
-![GitHub issues](https://badgen.net/github/issues/jcxyis/jcxyis?label=Players)
+![GitHub issues](https://img.shields.io/github/issues-closed-raw/jcxyis/jcxyis/game?label=Players)
 
 [![GitHub stars](https://img.shields.io/github/stars/jcxyis/jcxyis?style=social&label=Stars)](https://GitHub.com/jcxyis/jcxyis/stargazers/)
 
