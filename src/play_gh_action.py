@@ -82,7 +82,7 @@ class Game(GameBase):
         with open(SAVE_PATH, 'w') as f:
             f.write(js)
         self.current_issue.create_comment(
-            f'Done! You may now visit https://github.com/{GITHUB_REPO_USER}/{GITHUB_REPO_NAME}')
+            f'Done! You may now visit https://github.com/{GITHUB_REPO_USER}')
 
 
 if __name__ == '__main__':
