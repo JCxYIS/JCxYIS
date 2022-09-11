@@ -10,13 +10,13 @@ def write_log(data: str):
 
 
 def write_found_result(user, heart_index):
-    buffer.append(f'## [{user}]((https://github.com/@{user}) find a {HEART_STRS[heart_index]}!')
+    buffer.append(f'## [{user}](https://github.com/@{user}) find a {HEART_STRS[heart_index]}!\n')
 
 
 def write_round_result(guess_count: int, user, table: str):
     buffer.append(
         '\n<details> \n' +
-        f'<summary> Guess #{guess_count} by [{user}]((https://github.com/@{user})</summary>\n' +
+        f'<summary> Guess #{guess_count} by\n\n[{user}](https://github.com/@{user}) \n\n</summary>\n' +
         '<br>\n\n' +
         table + '\n' +
         '</details>\n'
@@ -36,5 +36,5 @@ def flush(id: str):
         buffer.insert(0, '# Game ' + id + '\n')
 
     with open(path, 'a') as f:
-        f.writelines(buffer)
+        f.writelines(buffer + '\n')
         buffer.clear()
