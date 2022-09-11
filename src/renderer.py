@@ -110,9 +110,9 @@ def heart_finders_to_md(heart_finders_all: list[list[str]], id_end_at=-1) -> str
         if id_end_at == -1:
             result += '| '
         elif id_end_at == id:
-            result += f'| [{str(id)} **(now)**](https://github.com/{GITHUB_REPO_USER}/{GITHUB_REPO_NAME}/blob/main/logs/logs_{str(id)}.md) | '
+            result += f'| [{str(id)} **(now)**](https://github.com/{GITHUB_REPO_USER}/{GITHUB_REPO_NAME}/blob/master/logs/logs_{str(id)}.md) | '
         else:
-            result += f'| [{str(id)}](https://github.com/{GITHUB_REPO_USER}/{GITHUB_REPO_NAME}/blob/main/logs/logs_{str(id)}.md) | '
+            result += f'| [{str(id)}](https://github.com/{GITHUB_REPO_USER}/{GITHUB_REPO_NAME}/blob/master/logs/logs_{str(id)}.md) | '
         for heart_finder in heart_finders[1:]:
             result += f'[{heart_finder}](https://github.com/@{heart_finder}) | '
         result += '\n'
