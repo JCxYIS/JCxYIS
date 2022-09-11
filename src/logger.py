@@ -36,5 +36,5 @@ def flush(id: str):
         buffer.insert(0, '# Game ' + id + '\n')
 
     with open(path, 'a') as f:
-        f.writelines(buffer + '\n')
+        f.writelines(buffer)
         buffer.clear()
