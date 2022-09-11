@@ -1,4 +1,4 @@
-name: "Trigger a game"
+name: "Trigger the Game"
 
 on:
   issues:
@@ -33,6 +33,7 @@ jobs:
     - name: Start the game
       env:
         BASE_PATH: "../"
+        PYTHONHASHSEED: 48763
         GITHUB_REPO_USER: ${{ github.repository_owner }}
         GITHUB_REPO_NAME: ${{ github.event.repository.name }}
         GITHUB_APP_KEY: ${{ secrets.ENV_GITHUB_APP_KEY }}
