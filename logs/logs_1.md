@@ -21,7 +21,7 @@
 </details>
  
 <details> 
-<summary> Guess #2 by [JCxYIS]((https://github.com/@JCxYIS)</summary>
+<summary> Guess #2 by [JCxYIS](https://github.com/@JCxYIS)</summary>
 <br>
 
 |     |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
