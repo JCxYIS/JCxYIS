@@ -112,8 +112,14 @@ class GameBase(abc.ABC):  # ABC: Abstraction Base Classes
     def eval_cmd(self, cmd: int):
         """
         Evaluate user input
+        :param cmd: >=0: guess, -1: invalid
         """
         if cmd >= 0:  # guess a pos
+            # check range
+            if cmd >= BOARD_WIDTH * BOARD_HEIGHT:
+                print('Out of range!!')
+                return
+
             # check existed
             if cmd in self.config.revealed_poses:
                 print('Pos ' + str(cmd) + " has already been guessed!")

@@ -60,7 +60,7 @@ class Game(GameBase):
         cmd = self.current_issue.title.replace('💓💓💓', '').replace(' ', '')
         if not cmd.isdigit():
             print("Not A Number!")
-            cmd = 0
+            cmd = -1
         print('cmd: ', cmd)
         return int(cmd)
 
@@ -81,7 +81,8 @@ class Game(GameBase):
         js = GameConfig.to_json(self.config)
         with open(SAVE_PATH, 'w') as f:
             f.write(js)
-        self.current_issue.create_comment(f'Done! You can now visit https://github.com/{GITHUB_REPO_USER}/{GITHUB_REPO_NAME}')
+        self.current_issue.create_comment(
+            f'Done! You may now visit https://github.com/{GITHUB_REPO_USER}/{GITHUB_REPO_NAME}')
 
 
 if __name__ == '__main__':

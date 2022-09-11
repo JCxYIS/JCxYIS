@@ -30,11 +30,11 @@ class Game(GameBase):
             self.user = input()
 
     def handle_cmd(self) -> int:
-        print('Input a number to make your guess (1-99): ', end=' ')
+        print('Input a number to make your guess (0-99): ', end=' ')
         cmd = input()
         if not cmd.isdigit():
             print("Not A Number!")
-            cmd = 0
+            cmd = -1
         return int(cmd)
 
     def render_board(self):
