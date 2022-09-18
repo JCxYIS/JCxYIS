@@ -31,12 +31,21 @@ Heart Finders
 
 </div>
 
-> **How to play:**  
-> Click on an empty block above, your goal is to find the hearts!  
-> The number implies the distance to the nearest heart.  
+
+
+<details>
+<summary><b>How to play</b></summary>
+ 
+> 🧡 Click on an empty block above, your goal is to find the hearts!  
+> 1️⃣ The number implies the distance to the nearest heart.   
 > After you click on a block, you'll be redirected to the issue creation page,
 > simply click the *"Create new issue"* button and wait up to 1 minute, the bot will do the job :)  
-> **Feel free to play, and have fun!**
+
+> ***Feel free to play, and have fun!***
+  
+</details>
+
+
 
 <!--
 ### Leaderboard (Heart founds/Attempts)
