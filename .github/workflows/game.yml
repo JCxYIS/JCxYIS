@@ -45,7 +45,7 @@ jobs:
     # https://github.com/orgs/community/discussions/24664
     - name: Commit & Push
       run: |
-        git config --global user.email "236777+jcxyis-profile-updater[bot]@users.noreply.github.com"
+        git config --global user.email "113228395+jcxyis-profile-updater[bot]@users.noreply.github.com"
         git config --global user.name "jcxyis-profile-updater[bot]"
         git add -A
         git commit -m "Update" || exit 0
