@@ -40,20 +40,20 @@ class Game(GameBase):
         self.render_board()
 
     def set_user(self):
-        # Find all cmd issues
-        self.issues = list(self.repo.get_issues(state='open', labels=['game']))
+        # Find all issues
+        self.issues = list(self.repo.get_issues(state='open'))
         if len(self.issues) == 0:
             print('All issues are cleared!')
             exit(0)
         self.current_issue = self.issues.pop()
         # Check Invalid
         if not self.current_issue.title.startswith('💓💓💓'):
-            self.current_issue.create_comment('I don\'t know what you mean...')
-            self.current_issue.edit(state='closed', labels=['game', 'invalid'])
-            self.set_user()  # next issue
+#             self.current_issue.create_comment('I don\'t know what you mean...')
+#             self.current_issue.edit(state='closed', labels=['game', 'invalid'])
+            self.set_user()  # skip to next issue
             return
         self.user = self.current_issue.user.name
-        self.current_issue.edit(state='closed')  # close it first to avoid sync issue (?
+        self.current_issue.edit(state='closed', labels=['game'])  # close it first to avoid sync issue (gh-action may trigger multiple times)
         print('user: ', self.user)
 
     def handle_cmd(self) -> int:
