@@ -1,7 +1,7 @@
 # Game 1
  
 <details> 
-<summary> Guess #1 by [JCxYIS]((https://github.com/@JCxYIS)</summary>
+<summary> Guess #1 by <a href="https://github.com/JCxYIS">JCxYIS</a></summary>
 <br>
 
 |     |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
@@ -21,7 +21,7 @@
 </details>
  
 <details> 
-<summary> Guess #2 by [JCxYIS](https://github.com/@JCxYIS)</summary>
+<summary> Guess #2 by <a href="https://github.com/JCxYIS">JCxYIS</a></summary>
 <br>
 
 |     |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
@@ -41,7 +41,7 @@
 </details>
  
 <details> 
-<summary> Guess #3 by [JCxYIS]((https://github.com/@JCxYIS)</summary>
+<summary> Guess #3 by <a href="https://github.com/JCxYIS">JCxYIS</a></summary>
 <br>
 
 |     |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
@@ -60,10 +60,10 @@
 
 </details>
 
- ## [JCxYIS]((https://github.com/@JCxYIS) find a 🧡!
+ ## [JCxYIS](https://github.com/JCxYIS) find a 🧡!
  
 <details> 
-<summary> Guess #4 by [JCxYIS]((https://github.com/@JCxYIS)</summary>
+<summary> Guess #4 by <a href="https://github.com/JCxYIS">JCxYIS</a></summary>
 <br>
 
 |     |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
@@ -83,11 +83,7 @@
 </details>
  
 <details> 
-<summary> Guess #5 by
-
-[JCxYIS](https://github.com/@JCxYIS) 
-
-</summary>
+<summary> Guess #5 by <a href="https://github.com/JCxYIS">JCxYIS</a> </summary>
 <br>
 
 |     |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
@@ -107,7 +103,7 @@
 </details>
  
 <details> 
-<summary> Guess #6 by <a href="https://github.com/@JCxYIS">JCxYIS</a>
+<summary> Guess #6 by <a href="https://github.com/JCxYIS">JCxYIS</a>
 </summary>
 <br>
 
@@ -128,7 +124,7 @@
 </details>
  
 <details> 
-<summary> Guess #7 by <a href="https://github.com/@JCxYIS">JCxYIS</a>
+<summary> Guess #7 by <a href="https://github.com/JCxYIS">JCxYIS</a>
 </summary>
 <br>
 
@@ -149,7 +145,7 @@
 </details>
  
 <details> 
-<summary> Guess #8 by <a href="https://github.com/@JCxYIS">JCxYIS</a>
+<summary> Guess #8 by <a href="https://github.com/JCxYIS">JCxYIS</a>
 </summary>
 <br>
 
@@ -170,7 +166,7 @@
 </details>
  
 <details> 
-<summary> Guess #9 by <a href="https://github.com/@ninjer">ninjer</a>
+<summary> Guess #9 by <a href="https://github.com/ninjer">ninjer</a>
 </summary>
 <br>
 
@@ -191,7 +187,7 @@
 </details>
 
 <details> 
-<summary> Guess #10 by <a href="https://github.com/@CHUN-YU, HSUEH">CHUN-YU, HSUEH</a>
+<summary> Guess #10 by <a href="https://github.com/HaXAlvin">HaXAlvin</a>
 </summary>
 <br>
 
@@ -212,7 +208,7 @@
 </details>
 
 <details> 
-<summary> Guess #11 by <a href="https://github.com/@JCxYIS">JCxYIS</a>
+<summary> Guess #11 by <a href="https://github.com/JCxYIS">JCxYIS</a>
 </summary>
 <br>
 

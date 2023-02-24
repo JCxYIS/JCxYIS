@@ -78,7 +78,7 @@ def board2md(board: list[list[int]], revealed_poses: list[int], with_links: bool
             if pos not in revealed_poses:  # not guessed
                 if with_links:
                     result += f'[{BLOCK_STRS[0]}](https://github.com/{GITHUB_REPO_USER}/{GITHUB_REPO_NAME}/issues/new' \
-                              f'?title=💓💓💓{pos}&labels=game&body=Press%20**Submit%20new%20issue**%20below%20and%20wait%20for%20a%20little%20moment~) | '
+                              f'?title=💓💓💓{pos}&body=Press%20**Submit%20new%20issue**%20below%20and%20wait%20for%20a%20little%20moment~) | '
                 else:
                     result += f'{BLOCK_STRS[0]} | '
             elif n > 0:  # distance
@@ -114,7 +114,7 @@ def heart_finders_to_md(heart_finders_all: list[list[str]], id_end_at=-1) -> str
         else:
             result += f'| [{str(id)}](https://github.com/{GITHUB_REPO_USER}/{GITHUB_REPO_NAME}/blob/master/logs/logs_{str(id)}.md) | '
         for heart_finder in heart_finders[1:]:
-            result += f'[{heart_finder}](https://github.com/@{heart_finder}) | '
+            result += f'[{heart_finder}](https://github.com/{heart_finder}) | '
         result += '\n'
         id -= 1
 

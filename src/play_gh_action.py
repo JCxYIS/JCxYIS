@@ -52,7 +52,7 @@ class Game(GameBase):
 #             self.current_issue.edit(state='closed', labels=['game', 'invalid'])
             self.set_user()  # skip to next issue
             return
-        self.user = self.current_issue.user.name
+        self.user = self.current_issue.user.login
         self.current_issue.edit(state='closed', labels=['game'])  # close it first to avoid sync issue (gh-action may trigger multiple times)
         print('user: ', self.user)
 

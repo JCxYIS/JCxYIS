@@ -16,7 +16,7 @@ def write_found_result(user, heart_index):
 def write_round_result(guess_count: int, user, table: str):
     buffer.append(
         '\n<details> \n' +
-        f'<summary> Guess #{guess_count} by <a href=\"https://github.com/@{user}\">{user}</a>\n</summary>\n' +
+        f'<summary> Guess #{guess_count} by <a href=\"https://github.com/{user}\">{user}</a>\n</summary>\n' +
         '<br>\n\n' +
         table + '\n' +
         '</details>\n'
